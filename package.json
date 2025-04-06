@@ -1,0 +1,15 @@
+{
+  "name": "bun-blob-error",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@skyware/jetstream": "^0.2.2"
+  }
+}
